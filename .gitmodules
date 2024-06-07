@@ -1,0 +1,15 @@
+[submodule "WhyDockerCompose"]
+	path = WhyDockerCompose
+	url = https://github.com/FistGang/WhyDockerCompose.git
+[submodule "MinimizeDockerImageSize"]
+	path = MinimizeDockerImageSize
+	url = https://github.com/FistGang/MinimizeDockerImageSize.git
+[submodule "VMs_vs_Containers"]
+	path = VMs_vs_Containers
+	url = https://github.com/FistGang/VMs_vs_Containers.git
+[submodule "Online_vs_Offline_Data_Extractions"]
+	path = Online_vs_Offline_Data_Extractions
+	url = https://github.com/FistGang/Online-vs-Offline-Data-Extractions.git
+[submodule "ETL_vs_ELT"]
+	path = ETL_vs_ELT
+	url = https://github.com/FistGang/ETL_vs_ELT.git
