@@ -10,9 +10,18 @@ This repository is designed to organize my well-structured notes, diagrams, and 
 We welcome contributions from everyone. To contribute:
 
 1.  Fork this repository.
-2.  Create a new branch: `git checkout -b feature-branch`
-3.  Commit your changes: `git commit -m 'Add some feature'`
-4.  Push to the branch: `git push origin feature-branch`
+2.  Create a new branch
+    ```bash
+    git switch -c feature_branch
+    ```
+3.  Commit your changes:
+    ```bash
+    git commit -S -m 'feat: some new feature'
+    ```
+4.  Push to the branch:
+    ```bash
+    git push origin -u feature_branch
+    ```
 5.  Open a pull request.
 
 Please ensure your contributions are well-documented and adhere to the existing format
