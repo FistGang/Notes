@@ -13,3 +13,6 @@
 [submodule "ETL_vs_ELT"]
 	path = ETL_vs_ELT
 	url = https://github.com/FistGang/ETL_vs_ELT.git
+[submodule "ProcessEmployeesETL"]
+	path = ProcessEmployeesETL
+	url = https://github.com/FistGang/ProcessEmployeesETL.git
