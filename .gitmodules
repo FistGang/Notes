@@ -16,3 +16,6 @@
 [submodule "ProcessEmployeesETL"]
 	path = ProcessEmployeesETL
 	url = https://github.com/FistGang/ProcessEmployeesETL.git
+[submodule "PrimeSpark"]
+	path = PrimeSpark
+	url = https://github.com/FistGang/PrimeSpark
