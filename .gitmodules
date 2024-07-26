@@ -19,3 +19,6 @@
 [submodule "PrimeSpark"]
 	path = PrimeSpark
 	url = https://github.com/FistGang/PrimeSpark
+[submodule "AVG_Daily_Sales"]
+	path = AVG_Daily_Sales
+	url = https://github.com/FistGang/AVG_Daily_Sales
